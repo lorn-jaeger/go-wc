@@ -2,7 +2,7 @@
 A simple wc implementation in Go. 
 
 
-### Usage
+### usage
 
 ```
   -c 
